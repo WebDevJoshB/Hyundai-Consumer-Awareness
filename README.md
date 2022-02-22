@@ -1,5 +1,5 @@
 # Hyundai Consumer Awareness
-Link to [template][src1]
+![icon of a template](https://webdevjoshb.github.io/assets/images/icon-template.png) [Template][src1]
 
 More info coming soon.
 
